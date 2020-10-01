@@ -1,0 +1,5 @@
+egy vektor 11/e prog matek töri magyar angol évvégi jegyeinek átlagát határozza meg 
+osztályátlag 
+egyes tanulok átlaga
+legroszabb tanulo átlaga 
+van e 4,5 átlag feletti tanulo ird ki a nevét
